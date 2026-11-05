@@ -88,8 +88,7 @@ index.html
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9493294-eaa1-42a9-908e-cf805519e16c" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0261a14d-c327-4543-82ca-8b36d052894d" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12bf8eb1-f30e-40e6-b958-00f17f62e68c" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
